@@ -3,3 +3,4 @@
 #lab_2[https://github.com/PatelHarshit/2303a51159-27-PDS/blob/main/ds_lab(02)_8_8.ipynb]
 #lab_3[https://github.com/PatelHarshit/2303a51159-27-PDS/blob/main/lab_3.ipynb]
 #lab_5[https://github.com/PatelHarshit/2303a51159-27-PDS/blob/main/lab5.ipynb]
+#lab_6[https://github.com/PatelHarshit/2303a51159-27-PDS/blob/main/lab_6.ipynb]
